@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd6033be6187da439173087f9ecf4ff, type: 3}
+  m_Name: Octagon
+  m_EditorClassIdentifier: 
+  type: 4
+  clockwiseSprites:
+  - {fileID: 21300000, guid: b82ddd1eb99fcdc4482ba4c727ebdce5, type: 3}
+  - {fileID: 21300000, guid: 3416fb780be0e4f43a4d0da96e27f38b, type: 3}
+  - {fileID: 21300000, guid: d76158817b55db4428556fbcb332b8f5, type: 3}
+  - {fileID: 21300000, guid: d1a4bb6c50c42f04cabd7d18781fc4c5, type: 3}
+  - {fileID: 21300000, guid: f464204bde8c4cb47b1d16f0d5937273, type: 3}
+  - {fileID: 21300000, guid: b32c79b059f641d418f1f90a630d5ff9, type: 3}
+  - {fileID: 21300000, guid: a107fe1b86edde94896c136484345c8f, type: 3}
+  - {fileID: 21300000, guid: 86f2a855c87f5d74694acb94210f867a, type: 3}
+  counterClockwiseSprites:
+  - {fileID: 21300000, guid: 780feb9f58e06e14bb03cf633b6f77f4, type: 3}
+  - {fileID: 21300000, guid: 908bd91be15139541be496daf2277fe0, type: 3}
+  - {fileID: 21300000, guid: 1625f6222b9f31c49a85d6c3a470fdef, type: 3}
+  - {fileID: 21300000, guid: 6440c16109cbd58488164ae3c16b4f1e, type: 3}
+  - {fileID: 21300000, guid: c574bd7c15171f14cac3ec30f9497445, type: 3}
+  - {fileID: 21300000, guid: 396b641fdb2ac294cb17864b953da530, type: 3}
+  - {fileID: 21300000, guid: 155e3738da48db54db097ac9e60df1bd, type: 3}
+  - {fileID: 21300000, guid: 0ff097991ea630a4e947b9a167438f27, type: 3}
+  deathSprites:
+  - {fileID: 21300000, guid: 78eaef3d4a03adf44b295072f9913099, type: 3}
+  - {fileID: 21300000, guid: ab41c17e062648e45873157ca704d28d, type: 3}
+  - {fileID: 21300000, guid: 67b677f69e2afd94b8e888ed437ea20a, type: 3}
+  - {fileID: 21300000, guid: 6f877828464051d44a6647281a827c66, type: 3}
+  - {fileID: 21300000, guid: 6f844abd7f9fce74aa3587ddc85d2d19, type: 3}
+  - {fileID: 21300000, guid: bba9a270ca9366a469cc8e408ebabe0a, type: 3}
+  - {fileID: 21300000, guid: 13b97a91a409a5f4898eeac96c65fc06, type: 3}
+  - {fileID: 21300000, guid: bb5ab43c3a7260c44bdc88f68bf908ef, type: 3}
+  - {fileID: 21300000, guid: ff28f9ed2b4e17d429a27fc6b2c4fa87, type: 3}
+  angles:
+  - 0
+  - 45
+  - 90
+  - 135
+  - 180
+  - 225
+  - 270
+  - 315

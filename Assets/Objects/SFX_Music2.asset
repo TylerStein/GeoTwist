@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5902127eb7f280d429c60938ed858bc1, type: 3}
+  m_Name: SFX_Music2
+  m_EditorClassIdentifier: 
+  audioClips:
+  - {fileID: 8300000, guid: 72a23046f684a424ca0e02723d67a603, type: 3}
+  soundEffectType: 1
+  loop: 1
+  minVolume: 0.06
+  maxVolume: 0.06
+  minPitchShift: 1
+  maxPitchShift: 1

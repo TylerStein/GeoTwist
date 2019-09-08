@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd6033be6187da439173087f9ecf4ff, type: 3}
+  m_Name: Square
+  m_EditorClassIdentifier: 
+  type: 1
+  clockwiseSprites:
+  - {fileID: 21300000, guid: 703e00c804c7a1042b6c5b3b9516d9fd, type: 3}
+  - {fileID: 21300000, guid: 12da1f1a72fac724aa68933bd19854c6, type: 3}
+  - {fileID: 21300000, guid: 093e201b1488c9441b37582ccea2db31, type: 3}
+  - {fileID: 21300000, guid: ebab8c3a2e1aac94cb5d7dd64d9604e0, type: 3}
+  counterClockwiseSprites:
+  - {fileID: 21300000, guid: a9e84f593755f194290e0d26cd89736a, type: 3}
+  - {fileID: 21300000, guid: d2613e47261ca3f4c9c5d41718408030, type: 3}
+  - {fileID: 21300000, guid: 3a8c5ba724e3ddf46ba00227f33f345d, type: 3}
+  - {fileID: 21300000, guid: 0c302df95d9b55c47bbe53387c7f5e60, type: 3}
+  deathSprites:
+  - {fileID: 21300000, guid: 74caac9f428609743898aaa24480380c, type: 3}
+  - {fileID: 21300000, guid: 53d2e3599bfb69c469752e9f5b7a776b, type: 3}
+  - {fileID: 21300000, guid: b6c148745e3c9c744809900f542a842f, type: 3}
+  - {fileID: 21300000, guid: 8540540f632c5fe418487561b5c0ea16, type: 3}
+  - {fileID: 21300000, guid: ec2561ebba73fa945b6f86e4e4dcda1e, type: 3}
+  angles:
+  - 0
+  - 90
+  - 180
+  - 270
